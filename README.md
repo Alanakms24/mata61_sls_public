@@ -152,9 +152,9 @@ A participação do estudante será aferida por meio de sua participação indiv
 
 ### Pesos
 
-+ 20% Prova 1, 20% Prova 2
-+ 20% Participação em fóruns, quiz e exercícios individuais
-+ 40% Projeto e implementação de um compilador (4 trabalhos práticos) em equipe de até 3 pessoas.
++ 15% Prova 1, 15% Prova 2
++ 25% Participação em fóruns, quiz e exercícios individuais
++ 45% Projeto e implementação de um compilador (4 trabalhos práticos) em equipe de até 3 pessoas.
 
 ## Referênciais bibliográficas 
 
