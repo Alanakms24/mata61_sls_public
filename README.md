@@ -3,7 +3,7 @@ Disciplina MATA61 realizada no [SLS-Semestre Letivo Complementar da UFBA](https:
 
 
 ## Informações sobre a disciplina
-+ [Programa da disciplina](../master/about/MATA61-Compiladores-20122.pdf)
++ [Programa da disciplina](https://github.com/ensino-ufba/mata61_sls_public/blob/master/about/MATA61-Programa-20122.pdf)
 + 2020.SLS - AVA: Em breve.
 <!--   - Google classroom
    - Código da Turma: 5kzvmsd
