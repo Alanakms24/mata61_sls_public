@@ -121,7 +121,6 @@ Uso de vídeo-aula expositiva, fórum de discussão, estudo dirigido, trabalhos 
 - Técnica Stop and Copy
 - Técnica Reference Counting
 
----
 ## Avaliação de Aprendizagem
 
 Os seguintes dispositivos de avaliação processual ou formativa, serão utilizados: 
