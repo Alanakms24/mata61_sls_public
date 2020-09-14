@@ -5,9 +5,12 @@ Disciplina MATA61 realizada no [SLS-Semestre Letivo Complementar da UFBA](https:
 ## Informações sobre a disciplina
 + [Programa da disciplina](../master/MATA61-Compiladores-20122.pdf)
 + 2020.SLS
-   - [Google classroom](https://classroom.google.com/c/MTY0MTEzODk0MzI2?cjc=5kzvmsd)
+<!--   - Google classroom
    - Código da Turma: 5kzvmsd
    - Meet: https://meet.google.com/lookup/aowkza5qdl
+-->
+   - AVA
+   - WebConf
 
 ---
 ## Objetivos
@@ -100,20 +103,23 @@ Uso de vídeo-aula expositiva, fórum de discussão, estudo dirigido, trabalhos 
 - Modelos de Geração de Código
 
 ### Otimização de Código: Local
+
 - Codigo Intermediario
 - Tecnicas de otimizacao local
 - Otimizacao "peephole"
 
 ### Otimização de Código: Global 
+
 - Analise Data flow
 - Propagação global de constantes
 - Analise Liveness
 
 ### Alocação de Registradores
- - Hierarquia de memoria
- - Definição do Problema
- - Método de Coloração em grafos
- - Técnica de Spilling
+
+- Hierarquia de memoria
+- Definição do Problema
+- Método de Coloração em grafos
+- Técnica de Spilling
 
 ### Gerenciamento Automático de Memória
 - Definição do Problema
@@ -130,6 +136,7 @@ Os seguintes dispositivos de avaliação processual ou formativa, serão utiliza
 A participação do estudante será aferida por meio de sua participação individual no fórum da disciplina, na realização das tarefas disponíveis no ambiente virtual de aprendizagem, exercícios, quizzes e nos trabalhos em equipe. 
 
 ### Atividades
+
 + Projeto Prático:  Projetar e implementar um compilador (incluindo Analisador Léxico, Analisador Sintático, Analisador Semântico e Gerador de Código) para uma linguagem simples procedimental. 
    - Trabalho 1: Analisador Léxico
    - Trabalho 2: Analisador Sintático
@@ -137,13 +144,14 @@ A participação do estudante será aferida por meio de sua participação indiv
    - Trabalho 4 (final): Gerador de Código.
 
 + Provas:
-   - Prova 1: Análise Léxica, Análise Sintática (Top-down e Bottom-up), Análise Semântica (Escopo e Tipos) - online, 10 questões
-   - Prova 2: Ambiente de execução, Geração de Código, Alocação de registradores, Gerenciamento Automático de Memória - online, 10 questões
+   - Prova 1: Análise Léxica, Análise Sintática (Top-down e Bottom-up), Análise Semântica (Escopo e Tipos) - offline, múltipla escolha, correção automática, 10 questões - 24 horas no ar.
+   - Prova 2: Ambiente de execução, Geração de Código, Alocação de registradores, Gerenciamento Automático de Memória -  offline, múltipla escolha, correção automática, 10 questões - 24 horas no ar.
 
 + Outras Atividades:
    - Fóruns, quiz e exercícios individuais
 
 ### Pesos
+
 + 20% Prova 1, 20% Prova 2
 + 20% Participação em fóruns, quiz e exercícios individuais
 + 40% Projeto e implementação de um compilador (4 trabalhos práticos) em equipe de até 3 pessoas.
