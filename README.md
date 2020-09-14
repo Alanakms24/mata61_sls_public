@@ -13,7 +13,20 @@ Disciplina MATA61 realizada no [SLS-Semestre Letivo Complementar da UFBA](https:
 ## Objetivos
 
 - Parte teórica: Entender os conceitos fundamentais envolvidos na implementação de linguagens de programação;
-- Parte prática: Implementar um compilador aplicando técnicas de análise e síntese/geração de código.
+- Parte prática: 
+   - Implementar um compilador aplicando técnicas de análise e síntese/geração de código;
+   - Aplicar técnicas para construção de analisadores léxicos e sintáticos; 
+   - Aplicar técnicas para construção de analisadores semânticos e geradores de código;
+- Reconhecer a importância do trabalho colaborativo, em equipe, para a construção de um produto de software básico de relativa complexidade.
+
+---
+## Metodologia (SLS)
+
++ Aulas síncronas e assíncronas, com estudo dirigido e vídeo-aulas expositivas (assíncronas) e um encontro semanal, online para tirar dúvidas sobre atividades assíncronas
++ Sala de aula invertida, com vídeos, leituras recomendadas e exercícios (atividades assíncronas), e fórum de discussão/dúvidas e quiz (atividades síncronas) 
++ Avaliação por meio de trabalhos de programação em equipe, provas individuais, exercícios de resolução de problemas (individuais e em equipe) e quiz. 
+
+Uso de vídeo-aula expositiva, fórum de discussão, estudo dirigido, trabalhos em grupo, quiz e lista de exercícios; uso de AVA (Moodle ou Classroom), Meet ou WebConf (RNP) e Github. 
 
 ## Plano de Aulas
 
@@ -108,25 +121,35 @@ Disciplina MATA61 realizada no [SLS-Semestre Letivo Complementar da UFBA](https:
 - Técnica Stop and Copy
 - Técnica Reference Counting
 
-## Projeto Prático
-Projetar e implementar um compilador (incluindo Analisador Léxico, Analisador Sintático,  Analisador Semântico e Gerador de Código) para uma linguagem simples procedimental. 
+---
+## Avaliação de Aprendizagem
 
-## Avaliação
-- 30% Primeira prova (individual)
-- 30% Segunda prova (individual)
-- 40% Trabalhos práticos (individual ou em dupla)
+Os seguintes dispositivos de avaliação processual ou formativa, serão utilizados: 
++ individual - diário online, provas, exercícios e quiz, com avaliação do docente;
++ em equipe - trabalhos práticos, com avaliação do docente e por pares.
 
-## Provas/trabalhos
+A participação do estudante será aferida por meio de sua participação individual no fórum da disciplina, na realização das tarefas disponíveis no ambiente virtual de aprendizagem, exercícios, quizzes e nos trabalhos em equipe. 
 
-- Trabalho 1: Analisador Léxico
-- Trabalho 2: Analisador Sintático
-- Prova 1: Análise Léxica, Análise Sintática (Top-down e Bottom-up), Análise Semântica (Escopo e Tipos)
-- Trabalho 3: Analisador Semântico
-- Prova 2: Ambiente de execução, Geração de Código, Alocação de registradores, Gerenciamento Automático de Memória
-- Trabalho 4 (final): Gerador de Código
+### Atividades
++ Projeto Prático:  Projetar e implementar um compilador (incluindo Analisador Léxico, Analisador Sintático, Analisador Semântico e Gerador de Código) para uma linguagem simples procedimental. 
+   - Trabalho 1: Analisador Léxico
+   - Trabalho 2: Analisador Sintático
+   - Trabalho 3: Analisador Semântico
+   - Trabalho 4 (final): Gerador de Código.
 
++ Provas:
+   - Prova 1: Análise Léxica, Análise Sintática (Top-down e Bottom-up), Análise Semântica (Escopo e Tipos) - online, 10 questões
+   - Prova 2: Ambiente de execução, Geração de Código, Alocação de registradores, Gerenciamento Automático de Memória - online, 10 questões
 
-## Livro para leitura/consulta (opcional)
++ Outras Atividades:
+   - Fóruns, quiz e exercícios individuais
+
+### Pesos
++ 20% Prova 1, 20% Prova 2
++ 20% Participação em fóruns, quiz e exercícios individuais
++ 40% Projeto e implementação de um compilador (4 trabalhos práticos) em equipe de até 3 pessoas.
+
+## Referência bibliográfica principal
 
 Livro do "Dragão": Aho, Lam, Sethi, and Ullman. Compiladores: princípios, técnicas e ferramentas. 2a edição, Addison-Wesley, 2008.
 
@@ -144,18 +167,15 @@ Seções de Capítulos: 8.5, 8.7, 9.1-9.4
 Seções de Capítulos: 8.8, e 7.5-7.7
 
 ## Links
-### Cursos online 
 
-+ [Compilers - Universidade de Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers) 
+### Sobre github 
+
++ [Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
++ [Try Git](https://try.github.io/levels/1/challenges/1)
 
 ### Sobre markdown
 
 + [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 + [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)
 + [Markdown and including multiple files](https://stackoverflow.com/questions/4779582/markdown-and-including-multiple-files)
-
-### Sobre github 
-
-+ [Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-+ [Try Git](https://try.github.io/levels/1/challenges/1)
 
