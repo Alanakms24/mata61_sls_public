@@ -148,7 +148,9 @@ A participação do estudante será aferida por meio de sua participação indiv
 + 20% Participação em fóruns, quiz e exercícios individuais
 + 40% Projeto e implementação de um compilador (4 trabalhos práticos) em equipe de até 3 pessoas.
 
-## Referência bibliográfica principal
+## Referênciais bibliográficas 
+
+### Principal
 
 Livro do "Dragão": Aho, Lam, Sethi, and Ullman. Compiladores: princípios, técnicas e ferramentas. 2a edição, Addison-Wesley, 2008.
 
@@ -164,6 +166,12 @@ Seções de Capítulos: 6.2, 7.1-7.4, 8.1-8.3, 8.6
 Seções de Capítulos: 8.5, 8.7, 9.1-9.4
 - Alocação de registradores e Gerenciamento automático de memória.
 Seções de Capítulos: 8.8, e 7.5-7.7
+
+### Outras
+
++ LOUDEN, K. C.. Compiladores: Princípios e Práticas. Editora Thompson Pioneira, 1a edição, 2004. 
++ RICARTE, I. Introdução à Compilação, Editora Campus, 2008. 
+
 
 ## Links
 
